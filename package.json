@@ -1,0 +1,8 @@
+{
+  "name": "slate",
+  "version": "1.0.0",
+  "description": "Dynamic DOM manipulation at the speed of JavaScript",
+  "main": "index.js",
+  "author": "The Slate Authors",
+  "license": "MIT"
+}
